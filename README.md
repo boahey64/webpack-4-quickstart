@@ -17,3 +17,6 @@ Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@v
 ## License
 
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## react-redux based on webpack-4-quickstart
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/
